@@ -58,17 +58,23 @@ I combine strong technical execution with clear communication and a genuine focu
 
 ## 🌟 Featured Projects
 
-### [UbuntuCare](https://github.com/NatashaSmith-Dev/UbuntuCare)
-> AI-powered trauma support platform for survivors in South Africa. Built with a focus on accessibility, safety, and compassionate UX.
+### [Luma Living](https://github.com/NatashaSmith-Dev/Luma-Living)
+> `E-commerce` · Premium homewear brand storefront — a boutique shopping experience built for conversion. Product catalogue, cart, and checkout flow with a refined, minimal aesthetic.
 
-### [Resume App](https://github.com/NatashaSmith-Dev/Resume-App)
-> Resume Studio — a personalised resume builder that helps users design CVs tailored to specific roles.
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Toyota_GR_logo.svg/120px-Toyota_GR_logo.svg.png" height="20" style="vertical-align:middle"/> Toyota GR Cup — AI Driver Coaching Tool
+> `AI · Automotive` · An AI-powered conversational coaching tool for Toyota GR Cup drivers, designed to improve racing performance through real-time guidance and personalised feedback.
+
+### [UbuntuCare](https://github.com/NatashaSmith-Dev/UbuntuCare)
+> `AI · Social Impact` · AI-powered trauma support platform for survivors in South Africa. Built with a focus on accessibility, safety, and compassionate UX.
 
 ### [VaultScore](https://github.com/NatashaSmith-Dev/VaultScore)
-> A clean, responsive credit-building tool helping users understand and improve their financial health.
+> `FinTech` · A clean, responsive credit-building tool helping users understand and improve their financial health.
 
 ### [Community Alert](https://github.com/NatashaSmith-Dev/Community-alert)
-> Neighbourhood watch and safety app — real-time community alerts for safer living.
+> `Civic Tech` · Neighbourhood watch and safety app — real-time community alerts for safer living.
+
+### [Resume App](https://github.com/NatashaSmith-Dev/Resume-App)
+> `SaaS` · Resume Studio — a personalised resume builder that helps users design CVs tailored to specific roles.
 
 ---
 
