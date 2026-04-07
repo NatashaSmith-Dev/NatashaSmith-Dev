@@ -67,12 +67,6 @@ I combine strong technical execution with clear communication and a genuine focu
 ### [UbuntuCare](https://github.com/NatashaSmith-Dev/UbuntuCare)
 > `AI · Social Impact` · AI-powered trauma support platform for survivors in South Africa. Built with a focus on accessibility, safety, and compassionate UX.
 
-### [VaultScore](https://github.com/NatashaSmith-Dev/VaultScore)
-> `FinTech` · A clean, responsive credit-building tool helping users understand and improve their financial health.
-
-### [Community Alert](https://github.com/NatashaSmith-Dev/Community-alert)
-> `Civic Tech` · Neighbourhood watch and safety app — real-time community alerts for safer living.
-
 ### [Resume App](https://github.com/NatashaSmith-Dev/Resume-App)
 > `SaaS` · Resume Studio — a personalised resume builder that helps users design CVs tailored to specific roles.
 
