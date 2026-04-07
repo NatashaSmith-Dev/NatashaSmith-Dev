@@ -58,7 +58,7 @@ I combine strong technical execution with clear communication and a genuine focu
 
 ## 🌟 Featured Projects
 
-### [Luma Living](https://github.com/NatashaSmith-Dev/Luma-Living)
+### [Luma Living] (https://luma-living.vercel.app/)
 > `E-commerce` · Premium homewear brand storefront — a boutique shopping experience built for conversion. Product catalogue, cart, and checkout flow with a refined, minimal aesthetic.
 
 ### ![Toyota GR](https://img.shields.io/badge/Toyota-GR%20Cup-EB0A1E?style=flat&logo=toyota&logoColor=white) Toyota GR Cup — AI Driver Coaching Tool
