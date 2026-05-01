@@ -3,7 +3,7 @@
 # Natasha Smith
 ### Full Stack Developer · South Africa 🇿🇦
 
-*Building performant, scalable web applications — from e-commerce to AI-powered SaaS.*
+*Building and improving real-world web applications — from e-commerce platforms to API-driven systems and AI-enabled tools.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Natasha%20Smith-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
 [![Email](https://img.shields.io/badge/Email-hello%40norlith.com-black?style=flat&logo=gmail&logoColor=white)](mailto:hello@norlith.com)
