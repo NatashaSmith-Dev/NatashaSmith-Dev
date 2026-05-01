@@ -15,10 +15,11 @@
 
 ## About Me
 
-I'm a full-stack developer with 10+ years of client-facing experience, running **[Norlith](https://norlith.com)** — a development consultancy specialising in e-commerce, SaaS, and AI-powered web applications.
+Full-stack developer with hands-on experience across development and technical consulting. I build and deploy applications with a focus on performance, reliability, and clean architecture.
 
-I combine strong technical execution with clear communication and a genuine focus on business outcomes. I don't just build features — I build products that work.
+My work includes diagnosing and resolving real system issues — from API failures to UX and monetisation gaps — and contributing to improvements in live production environments.
 
+I bring a strong understanding of both the technical and business side of products, shaped by 10+ years of client-facing experience.
 ---
 
 ## 💻 Tech Stack
