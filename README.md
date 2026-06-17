@@ -86,7 +86,7 @@ I'm available for freelance projects and consulting engagements through **Norlit
 
 - 🌍 Based in **Stellenbosch, South Africa**
 - 💼 Open to **remote work globally**
-- 📩 Reach me at **hello@norlith.com**
+- 📩 Reach me at **natashasmith.engineer@gmail.com**
 
 ---
 
