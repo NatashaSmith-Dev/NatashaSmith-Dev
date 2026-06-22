@@ -1,7 +1,7 @@
 <div align="center">
 
 # Natasha Smith
-### Full Stack Developer · South Africa 🇿🇦
+### Full Stack Developer · South Africa 🇿🇦 
 
 *Building and improving real-world web applications — from e-commerce platforms to API-driven systems and AI-enabled tools. *
 
